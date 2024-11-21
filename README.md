@@ -1,11 +1,11 @@
 # PriorNet: A Lightweight and Generalizable Dehazing Network
 
 ### Environment
-python 3.8
-pytorch 1.7.1+cuda110
-torchvision 0.8.2+cuda110
-scikit-image 0.21.0
-opencv-python 4.9.0.80
+python 3.8, 
+pytorch 1.7.1+cuda110, 
+torchvision 0.8.2+cuda110, 
+scikit-image 0.21.0, 
+opencv-python 4.9.0.80, 
 numpy 1.24.4
 ### Dataset
 trainset: HAZE4k
